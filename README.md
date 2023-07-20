@@ -1,2 +1,1 @@
-# PrepCouse-Hery
-este es un repositorio de practicas para el curso de herry del modulo 2
+Este proyecto es una prueba de como crear  un repositorio 
